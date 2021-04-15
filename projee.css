@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(205, 243, 243); 
+
+}
+
+
+.wrapper {
+  border: 15px solid blue;
+  padding: 50px;
+  margin: 20px;
+  position: relative;
+  color: blue;
+  text-align: center;
+}
+
